@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ input {
+    padding: 20px;
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+   margin: 50px 430px auto;
+   border: none;
+   outline: none;
+   font-size: 1.2em;
+   font-family: Arial, sans-serif;
+   color:#ccc;
+   box-shadow: 10 15 10px purple ;
+   text-align: center;
+   background-color: #33333386;
+}
+  .content-box {
+    width: 400px;
+    height: 350px;
+    background-color: #33333391;
+    border: 1px solid #ccc;
+    box-shadow: 5 5 10px #ccc;
+    border-radius: 5px;
+    color: #ccc;
+    margin: 40px 430px auto;
+    padding: 15px;
+    overflow-y: scroll;
+ }
+  body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-image: url(../image\ 4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+.city{
+    margin-bottom: 20px;
+  }
